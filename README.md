@@ -1,2 +1,5 @@
 # IBL-Bot
-A InvBoy bot
+
+Bot de Discord en español.
+
+Información pronto.
